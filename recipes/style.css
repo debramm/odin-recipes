@@ -1,0 +1,23 @@
+img{
+    height: 300px;
+    width: 400px;
+    
+}
+ 
+body{
+    background-color: rgb(224, 150, 98);
+}
+
+h1{
+     color: #5c2e2e;
+     
+}
+.description{
+    color: honeydew;
+}
+.Steps{
+    color: crimson;
+}
+#preparation{
+    color: rgb(92, 38, 46);
+}
